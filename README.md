@@ -26,12 +26,14 @@ build JSON object.
                  To query a word's definition:  query,java
 		 To add a new word: add,html,a language that can build website
 		 To remove a word: remove,html
+		 
 * By GUI: first run "ServerGUI.java" then run "ClientGUI.java"
 		notice: by add a new word, input "html,a language..." in the box
  			then click the "add" button
 		To query or remove a word, just enter a word firstly in the input box,
 		then click the button "query" or "remove" and the info will be shown
  		in the below information box.
+		
 * By jar: It has two jar files- "DictionaryServer.jar" and "DictionaryClient.jar"
 	    just double clicked the "DictionaryServer.jar" first and then the
 	    "DictionaryClient.jar". No need to enter port number,IP etc.
