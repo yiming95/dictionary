@@ -12,11 +12,14 @@ The breif introduction of the project.
 
 ```
 It contains 6 java files and they implement a worker-pool multi-threading architecture
-with TCP socket Dictionary Server. The port number for socket to connection is default set as 4444. The dictionary data uses JSON format to achieve efficiency.
+with TCP socket Dictionary Server. The port number for socket to connection is default set 
+as 4444. The dictionary data uses JSON format to achieve efficiency.
 
-IP address is default set as localhost. There is no need for user to enter port number or IP address to use it.
+IP address is default set as localhost. There is no need for user to enter port number 
+or IP address to use it.
 
-The default dictionary contains three words : "java","python","c" and "JsonDictionary.java" creates the dictionary. It uses json-simple-1.1.1.jar to help
+The default dictionary contains three words : "java","python","c" and
+"JsonDictionary.java" creates the dictionary. It uses json-simple-1.1.1.jar to help
 build JSON object.
 ```
 
