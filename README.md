@@ -1,4 +1,4 @@
-# Java multithreaded dictionary project :+1:
+# Java multithreaded dictionary project 
 
 One Paragraph of project description goes here
 
